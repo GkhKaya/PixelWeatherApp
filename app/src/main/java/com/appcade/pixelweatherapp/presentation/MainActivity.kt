@@ -1,4 +1,4 @@
-package com.appcade.pixelweatherapp
+package com.appcade.pixelweatherapp.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -20,30 +20,9 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             PixelWeatherAppTheme {
-                // A surface container using the 'background' color from the theme
-                Surface(
-                    modifier = Modifier.fillMaxSize(),
-                    color = MaterialTheme.colorScheme.background
-                ) {
-                    Column() {
-                        Image(painter = painterResource(id = R.drawable.ic_cloudy), contentDescription = "ll")
-                    }
 
-                }
+
             }
         }
-    }
-}
-
-@Composable
-fun Greeting() {
-    Image(painter = painterResource(id = R.drawable.ic_cloudy), contentDescription = "ll")
-}
-
-@Preview(showBackground = true)
-@Composable
-fun GreetingPreview() {
-    PixelWeatherAppTheme {
-        Greeting()
     }
 }
