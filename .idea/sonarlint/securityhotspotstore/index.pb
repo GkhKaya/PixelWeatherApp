@@ -44,3 +44,7 @@ Oapp/src/androidTest/java/com/appcade/pixelweatherapp/ExampleInstrumentedTest.kt
 app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 >
 app/.gitignore,5\1\51e1c5d383dfaa35e0e7e5873a0a99355a86880f
+z
+Japp/src/main/java/com/appcade/pixelweatherapp/presentation/MainActivity.kt,2\e\2e394bc1339ecc572e7db0000dabc0da8ecd87d1
+u
+Eapp/src/main/java/com/appcade/pixelweatherapp/domain/util/Resource.kt,8\2\8223fb490c293603f230242ea6727706b51959dc
