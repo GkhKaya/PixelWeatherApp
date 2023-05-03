@@ -48,3 +48,11 @@ z
 Japp/src/main/java/com/appcade/pixelweatherapp/presentation/MainActivity.kt,2\e\2e394bc1339ecc572e7db0000dabc0da8ecd87d1
 u
 Eapp/src/main/java/com/appcade/pixelweatherapp/domain/util/Resource.kt,8\2\8223fb490c293603f230242ea6727706b51959dc
+{
+Kapp/src/main/java/com/appcade/pixelweatherapp/domain/weather/WeatherInfo.kt,c\9\c9d31a2fcf47620ae25ed92d69108b775211999d
+w
+Gapp/src/main/java/com/appcade/pixelweatherapp/data/remote/WeatherApi.kt,0\8\080fa79cbde890521cab122c82d666440fccd7ea
+|
+Lapp/src/main/java/com/appcade/pixelweatherapp/data/mappers/WeatherMappers.kt,c\6\c6c7e1420c39c4ae6a79be1c1351ca4f0b7be16a
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
