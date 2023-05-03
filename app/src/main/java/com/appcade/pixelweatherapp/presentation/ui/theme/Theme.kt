@@ -1,4 +1,4 @@
-package com.appcade.pixelweatherapp.ui.theme
+package com.appcade.pixelweatherapp.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

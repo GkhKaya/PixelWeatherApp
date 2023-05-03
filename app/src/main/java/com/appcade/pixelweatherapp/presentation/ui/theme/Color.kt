@@ -1,4 +1,4 @@
-package com.appcade.pixelweatherapp.ui.theme
+package com.appcade.pixelweatherapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
